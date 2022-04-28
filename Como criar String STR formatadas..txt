@@ -1,0 +1,26 @@
+# String formatadas usando o comando F´
+
+# String sem usar o F (formated)
+
+
+'''
+
+nome = 'Marcos'
+
+sobrenome = 'Silva'
+
+profissao = 'Programador'
+
+
+
+texto2 = f'O {nome} {sobrenome} e um excelente [{profissao}]'
+
+
+
+texto = 'O ' + nome +" " + sobrenome  + ' e um excelente' + '[' + profissao + ']'
+
+
+
+print (texto)
+
+print (texto2)
